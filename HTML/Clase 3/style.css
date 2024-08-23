@@ -1,0 +1,38 @@
+h1 {
+    color:  #20b5f0;
+}
+
+h1 span{
+    color:  #A020F0;
+}
+
+h2:nth-of-type(3){
+    color: blue;
+}
+
+ul > li:nth-of-type(even){
+    color: rgb(231, 44, 131);
+} 
+
+#maxstell{
+
+color: green;
+
+}
+
+table{
+
+    border-color:#A020F0;    
+}
+td{
+
+background-color: aquamarine;
+
+}
+
+body{
+    background-image: url("https://i.pinimg.com/originals/48/00/52/480052be8c04593c6826057f5e0a9936.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+    
+}
